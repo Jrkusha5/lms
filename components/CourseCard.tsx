@@ -4,7 +4,7 @@ import Image from "next/image";
 import Link from "next/link";
 import { BookOpen } from "lucide-react";
 import { urlFor } from "@/sanity/lib/image";
-import { Loader } from "@/components/ui/loader";
+import { Loader } from "@/components/ui/Loader";
 import { CourseProgress } from "@/components/CourseProgress";
 import {
   GetCoursesQueryResult,
